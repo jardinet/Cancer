@@ -1,5 +1,0 @@
-IP_ADDR=$(ipconfig getifaddr en0)
-NET_MASK=$(ipconfig getoption en0 subnet_mask)
-IFS=. read -r i1 i2 i3 i4 <<< "$IP_ADDR"
-IFS=. read -r m1 m2 m3 m4 <<< "$NET_MASK"
-printf "%d.%d.%d.%d\n" "$((i1 & m1))" "$((i2 & m2))" "$((i3 & m3))" "$((i4 & m4))"
