@@ -1,0 +1,1 @@
+ifconfig en1 | grep "..:..:..:..:..:.." | cut -d " " -f2 | tr -d '\n'
