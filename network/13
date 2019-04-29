@@ -1,0 +1,3 @@
+e1r11p13.42.fr.
+
+(Sortie de la commande : nslookup 10.11.11.13 | grep name | awk '{print $NF}')

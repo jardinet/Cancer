@@ -1,0 +1,4 @@
+163.172.250.13
+163.172.250.12
+
+(Sortie de la commande : nslookup 42.fr 8.8.4.4 | grep Address | tail -n 2 | awk '{print $2}')

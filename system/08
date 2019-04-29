@@ -1,0 +1,2 @@
+authorized_keys
+(L'emplacement standard est dans ~/.ssh/authorized_keys, voir man ssh)

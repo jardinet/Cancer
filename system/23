@@ -1,0 +1,4 @@
+Il faut ajouter un password avec la commande passwd.
+La commande su permet de se log sur un autre user sur le terminal.
+Sur ssh retaper ssh username@adressedelavm
+Sur la session graphique switch users ou log out puis se loger sur la session avec Id et mdp.

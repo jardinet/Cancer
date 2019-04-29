@@ -1,0 +1,10 @@
+DONC
+SI j'avais les droits :
+J'irai dans /etc/hosts
+Je modifierais le fichier en y ajoutant la jolie petite ligne :
+"46.19.122.85 intra.42.fr"
+Puis je ferais un nslookup intra.42.fr pour vérifier que la sortie est désormais :
+"Name : intra.42.fr
+Address: 46.19.122.85"
+
+Mais on peut pas donc rip

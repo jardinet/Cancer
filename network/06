@@ -1,0 +1,2 @@
+Je vais dans /etc qui contient généralement les fichiers de configuration, puis dans resolv.conf qui est utilisé pour configurer le DNS du systeme.
+Ce qui nous donne le chemin /etc/resolv.conf ! BISOUS
